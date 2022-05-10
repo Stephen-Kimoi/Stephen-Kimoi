@@ -1,14 +1,17 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100"/> 
+  <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="100"/> 
   
   ### Hi there 👋
 
-  Am Steve, welcome to my github profile
+  Am Steve, welcome to my github profile 
+  
+  Connect with me 
   
   <div id="badges"> 
      <a href="https://twitter.com/stevekimoi">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
+    </a> 
+    
     <a href="https://linkedin.com/in/stephen-kimoi-927856218/" target="_blank">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
