@@ -7,8 +7,12 @@
 
 Am Steve, welcome to my github profile 
 
-<a href="your-linkedin-URL">
+<a href="https://linkedin.com/in/stephen-kimoi-927856218/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a> 
+
+<a href="https://twitter.com/stevekimoi">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
 
 <!--
