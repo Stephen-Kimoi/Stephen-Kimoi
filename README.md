@@ -18,7 +18,7 @@
   
   ---
 
-### :man_technologist: About Me 
+  ### :man_technologist: About Me 
   I am a front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
   - :telescope: I’m a Front end Engineer and contributing to frontend web applications. 
@@ -36,7 +36,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+  </div> 
+  
+  --- 
+  ### :computer: My statistics: 
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Stephen-Kimoi&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div> 
 
 
