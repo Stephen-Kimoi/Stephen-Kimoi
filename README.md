@@ -5,7 +5,7 @@
 
   Am Steve, welcome to my github profile 
   
-  Connect with me 
+  Connect with me | [top](#people--body) | :point_down: |
   
   <div id="badges"> 
     <a href="https://linkedin.com/in/stephen-kimoi-927856218/" target="_blank">
