@@ -19,7 +19,7 @@
   ---
 
 ### :man_technologist: About Me 
-  I am a front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
+  I am a front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
   - :telescope: I’m a Front end Engineer and contributing to frontend web applications. 
   - :zap: I love reading tech newsletters and keeping myself upto date with the latest technologies. 
