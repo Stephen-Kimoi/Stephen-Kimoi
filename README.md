@@ -41,7 +41,6 @@
   
   --- 
   ### :computer: My statistics: 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username= Stephen-Kimoi&label=Profile%20views&color=0e75b6&style=flat" alt="WilliamOtieno" /> </p>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Kimoi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div> 
