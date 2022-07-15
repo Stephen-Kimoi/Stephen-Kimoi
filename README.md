@@ -44,9 +44,9 @@
 
 
  --- 
- <div id="badges" align="center"> 
+
    Connect with me :point_down:
- 
+    <div id="badges" align="center">  
     <a href="https://linkedin.com/in/stephen-kimoi-927856218/" target="_blank">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -54,6 +54,6 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a> 
    </div>
-
+</div> 
 
 
