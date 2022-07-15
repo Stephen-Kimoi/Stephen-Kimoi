@@ -32,7 +32,7 @@
   --- 
   ### :computer: My statistics: 
   <div>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Kimoi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Kimoi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
     </div> 
      <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Stephen-Kimoi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
