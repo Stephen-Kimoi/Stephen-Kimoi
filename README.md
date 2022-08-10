@@ -9,9 +9,9 @@
   ---
 
   ### :man_technologist: About Me 
-  I am a front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
-  - :telescope: I’m a Front end Engineer and contributing to frontend web applications.  
+  - :telescope: I’m a tech enthusiast who is leveraging his skills to solving Afrikan problems  
   - :mailbox: You can reach out to me via email at moenisteve@gmail.com 
   
   --- 
