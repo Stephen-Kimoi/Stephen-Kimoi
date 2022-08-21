@@ -11,7 +11,8 @@
   ### :man_technologist: About Me 
   I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
-  - :telescope: I’m a tech enthusiast who is leveraging his skills to solving Afrikan problems  
+  - :telescope: I’m a tech enthusiast who is leveraging his skills to solving African problems 
+  - :busts_in_silhouette: I am passionate about front-end development(creating simple UI designs to complex ones) and blockchain 
   - :mailbox: You can reach out to me via email at moenisteve@gmail.com 
   
   --- 
