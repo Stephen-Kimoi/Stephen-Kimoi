@@ -41,7 +41,6 @@
      </tr> 
  <div align="center">
        <p text-align="center"> <img src="https://komarev.com/ghpvc/?username=Stephen-Kimoi &label=Profile%20views&color=0e75b6&style=flat" alt="steve kimoi" /> </p>
-       <p><td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Kimoi&langs_count=10&layout=compact"/></p>
  </div> 
 
 
