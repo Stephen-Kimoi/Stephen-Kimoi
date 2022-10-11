@@ -33,12 +33,9 @@
   
   --- 
   ### :computer: My statistics: 
-
      <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Stephen-Kimoi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Kimoi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
      </tr> 
-  
  <div align="center">
        <p text-align="center"> <img src="https://komarev.com/ghpvc/?username=Stephen-Kimoi &label=Profile%20views&color=0e75b6&style=flat" alt="steve kimoi" /> </p>
  </div> 
