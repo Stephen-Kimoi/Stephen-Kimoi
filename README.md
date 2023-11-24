@@ -11,7 +11,7 @@
   ### :man_technologist: About Me 
   I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
-  -  I am a junior developer with an intrinsic desire for tech. 
+  -  I am a developer with an intrinsic desire for tech. 
   -  I have specialised in front-end development(creating simple UI designs to complex ones using React) and blockchain (Ethereum and Solidity) 
   -  Check out my portfolio at https://kimoisteve.me
   -  Reach out to me via email at moenisteve@gmail.com 
