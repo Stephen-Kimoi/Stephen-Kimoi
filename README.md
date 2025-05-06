@@ -12,7 +12,7 @@
   I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
   -  FullStack Blockchain Developer 
-  -  Check out my portfolio at https://kimoisteve.info
+  -  Check out my portfolio at http://stevekimoi.me/
   -  Reach out to me via email at kimoisteve.ke@gmail.com
   
   --- 
